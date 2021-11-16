@@ -16,3 +16,4 @@
 ![](/images/原数据.png)
 
 ![](/images/自然邻点插值.png)
+![克里斯金插值效果](image/克里斯金.png)
