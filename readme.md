@@ -13,7 +13,5 @@
 - main.m 主程序
 - 黔西南.shp 地图文件
 
-![](/images/原数据.png)
 
-![](/images/自然邻点插值.png)
-![克里斯金插值效果](image/克里斯金.png)
+![克里斯金插值效果](images/克里斯金.png)
